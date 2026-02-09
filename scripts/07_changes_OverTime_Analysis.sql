@@ -11,8 +11,10 @@ Script Purpose:
     -> Supports trend analysis, forecasting, and YoY/MoM comparisons
     ->  Feeds Power BI / Tableau time-series visuals
 
-Command Used:
-    Window Functions, Date & Time Functions
+SQL Functions Used:
+    - Date Functions: DATEPART(), DATETRUNC(), FORMAT()
+    - Aggregate Functions: SUM(), COUNT(), AVG()
+===============================================================================
 */
 
 -------------------------------------------------------------
