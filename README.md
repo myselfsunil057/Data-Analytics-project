@@ -4,9 +4,7 @@
 This project is a **full-cycle data analytics pipeline using only SQL**, designed to simulate real-world business scenarios.  
 It covers **data ingestion, transformation, modeling, and insights generation**, focusing on actionable business intelligence.  
 
-**Why this project?**  
 - Demonstrates mastery of **advanced SQL, performance optimization, and business metrics**.  
-- Prepares for **freelance gigs, internships, and high-paying analytics roles**.  
 - Acts as a **portfolio piece showing end-to-end project delivery**.
 
 ---
